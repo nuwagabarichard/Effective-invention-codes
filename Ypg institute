@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>YPG INSTITUTE</title>
+</head>
+<style>u
+	body{width:auto;
+	    height:auto;
+		background-color:skyblue;}
+	
+	.one{
+		width:15vh ;
+		height:5vh ;
+		background-color: white;
+		border-radius:25%;
+		margin: auto;
+		margin-bottom:-10vh;
+		position:relative;
+		background-image:url("desire.jpg";)
+		background-size:cover;
+		background-position:center;
+			
+			
+	}
+	.twoI'm
+	.three{
+		width:20%;
+		height: 10vh;
+		margin: auto;
+		text-align: center;
+		text-justify: auto;
+		background-color: 
+	}
+</style>
+
+<body>
+	<div class="one"></div>
+	<div class="two">
+		<div class="three">
+			<h1>WELCOME!</h1>
+			<p align="center">You are welcome to YPG institute,we enhance and impact our students with alot of skills that help our students to be job creators but not job seekers,we have very good teachers who are qualified and know what they are actually doing,they love and help our students in many fields of their course study</p>
+		</div>
+	</div>
+</body>
+</html>
