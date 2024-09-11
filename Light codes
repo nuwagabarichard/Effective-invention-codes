@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+  <title>javascript</title>
+ </head>
+ <body>
+   <p id="demo">today is monday</p>
+   <button onclick="documentById("my image")src="https://www.w3schools.com/js/pic_bulbon.gif">turn on the bulb </button>
+   <img src="https://www.w3schools.com/js/pic_bulboff.gif"="width:60px;heighàaxt:100px;">
+   <button onclick="documentById("my image")src="https://www.w3schools.com/js/pic_bulboff.gif">turn off the light</button>
+   </body>
+   </html>
+ 
+  
+
+ 
+ 
